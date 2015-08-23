@@ -1,0 +1,1 @@
+This is a beta of the project "Json Framework", only created to study and train JAVA with Json.
